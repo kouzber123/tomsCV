@@ -1,0 +1,8 @@
+body {
+  background-color: #0e72ff;
+}
+.home_content {
+  display: flex;
+  justify-content: center;
+  margin-top: 15rem;
+}
